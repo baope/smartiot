@@ -9,8 +9,7 @@
 ### mongodb
 
 1. 没有固定的表结构-----可以随意插入任何结构的数据
-
-![image-20250921210524099](E:\pic\img\image-20250921210524099.png)
+<img width="333" height="142" alt="image" src="https://github.com/user-attachments/assets/6abd3c10-5e1e-4646-b005-5da28f0690b0" />
 
 ### mcs
 
