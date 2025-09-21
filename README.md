@@ -2,7 +2,7 @@
 
 1. 前端使用 vue--------https://github.com/baope/smartiot.git
 2. 后端使用 node.js------
-3. 连接wifi-smatiot---服务器ip为192.168.3.64
+3. 连接wifi-smatiot---服务器ip为192.168.3.64--用xshell或者mobaxterm连
 
 ## 原数据库
 
